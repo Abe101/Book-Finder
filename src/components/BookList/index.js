@@ -26,7 +26,7 @@ const styles = (theme) =>
       height: "100%",
     },
     icon: {
-      color: theme.palette.primary.main,
+      color: theme.palette.common.white,
     },
     img: {
       height: "100%",
